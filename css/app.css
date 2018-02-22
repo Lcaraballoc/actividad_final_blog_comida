@@ -1,0 +1,7 @@
+.row, .column, .columns{
+  border: 2px solid black;
+}
+
+.menu-lateral{
+  padding: 0px;
+}
