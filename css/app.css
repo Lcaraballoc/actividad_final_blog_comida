@@ -1,7 +1,34 @@
-.row, .column, .columns{
+.row, .column{
   border: 2px solid black;
+
 }
 
+body{
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .menu-lateral{
   padding: 0px;
+}
+
+.logo{
+  width: 130px;
+}
+
+.contenedor{
+  background-color: grey;
+  opacity: 0.96;
+  color:white;
+}
+
+
+.borde-derecho{
+  border-right: 2px solid white;
+}
+.borde-inferior{
+  border-bottom: 2px solid white;
+}
+.principal{
+  padding: 30px;
 }
