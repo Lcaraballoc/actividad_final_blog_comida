@@ -1,6 +1,5 @@
 .row, .column{
   border: 2px solid black;
-
 }
 
 body{
@@ -19,7 +18,7 @@ body{
 .contenedor{
   background-color: grey;
   opacity: 0.96;
-  color:white;
+  color:black;
 }
 
 
@@ -31,4 +30,7 @@ body{
 }
 .principal{
   padding: 30px;
+}
+.fondo-solido{
+  background-color: #fff9c4;
 }
