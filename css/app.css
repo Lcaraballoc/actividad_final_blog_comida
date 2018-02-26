@@ -6,22 +6,19 @@ body{
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 .menu-lateral{
   padding: 0px;
 }
-
 .logo{
   width: 130px;
 }
-
 .contenedor{
   background-color: grey;
   opacity: 0.96;
   color:black;
 }
-
-
 .borde-derecho{
   border-right: 2px solid white;
 }
@@ -33,4 +30,20 @@ body{
 }
 .fondo-solido{
   background-color: #fff9c4;
+}
+.centrar{
+  padding: 5px;
+}
+.icono_comentario{
+  width: 60px;
+}
+.callout{
+  margin-bottom: 5px;
+  padding: 10px;
+  background-color: #fff9c4;
+}
+.articulo{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
