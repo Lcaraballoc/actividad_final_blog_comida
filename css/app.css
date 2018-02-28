@@ -1,12 +1,13 @@
-.row, .column{
-  border: 2px solid black;
-}
-
 body{
   background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+h5{
+  color:red;
+  font-style: italic;
+  text-decoration: underline;
 }
 .menu-lateral{
   padding: 0px;
@@ -46,4 +47,7 @@ body{
   padding-top: 10px;
   padding-bottom: 10px;
   margin-bottom: 20px;
+}
+.letra_comentario{
+  font-size: 0.8rem;
 }
